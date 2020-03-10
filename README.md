@@ -1,10 +1,23 @@
-# Face_Recognition
+# Installation
+you can find complete procedure for installation in MAC/Ubuntu in
+https://pyimagesearch.com/2017/03/27/how-to-install-dlib/
 
+
+# Facial Landmarks used
+Eyes
+Eyebrows
+Nose
+Mouth
+Jawline
+
+
+# Face_Recognition
 Detecting facial landmarks is therefore a two step process:
 Step #1: Localize the face in the image.
 Step #2: Detect the key facial structures on the face ROI.
 
-# Installation
+
+
 
 
 Lines 34-39
