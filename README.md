@@ -1,9 +1,10 @@
 # Installation
-you can find complete procedure for installation in MAC/Ubuntu in
+you can find complete procedure for installation of dlib library in MAC/Ubuntu in
 https://pyimagesearch.com/2017/03/27/how-to-install-dlib/
 
 
 # Facial Landmarks used
+
 Eyes
 Eyebrows
 Nose
