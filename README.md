@@ -38,5 +38,6 @@ Firstly upgrade imutils by
 $ pip install --upgrade imutils
 
 Save the Facilal_landmark_detector.dat file and images in a folder and name it facial-landmarks.Name image as example_01.Then run
+
 $ python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat \
 	--image images/example_01.jpg
