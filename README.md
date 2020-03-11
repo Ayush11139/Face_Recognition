@@ -11,6 +11,8 @@ Nose
 Mouth
 Jawline
 
+![](https://www.pyimagesearch.com/wp-content/uploads/2017/04/facial_landmarks_68markup-768x619.jpg)
+
 
 # Face_Recognition
 Detecting facial landmarks is therefore a two step process:
@@ -42,3 +44,4 @@ Save the Facilal_landmark_detector.dat file and images in a folder and name it f
 
 $ python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat \
 	--image images/example_01.jpg
+	
